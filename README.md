@@ -2,18 +2,7 @@
 
 Meat my Assistant C.I.R.A.L 's Version V
 
-![DO5](https://github.com/suryadeepta/C.I.R.A.L-MARK-V/assets/121755483/12d9920c-15fe-4c6f-b086-f5b95f57da07)
-
-HOW TO USE :
-    Sey 'HELLO' to activate the Assistance features
-    Say 'No' to disactivate at starting
-    Keep records of all the conversation 
-    Speeds up the GUI animation when it talk's
-    Greets you everytime you open it
-    You just have to customize the clicking coordinates to make it work
-    Say "Close the Programe" or "Turn off Yourself" anytime to close the Assistance
-
-![Screenshot (137)](https://github.com/suryadeepta/C.I.R.A.L-MARK-V/assets/121755483/9e91b0e6-a7d3-481b-adb2-5b00fcd404f1)
+![canvas_ciral-231104_0610](https://github.com/suryadeepta/C.I.R.A.L-MARK-6.9/assets/121755483/7c448588-63b3-451f-83f2-5eb022351d7a)
 
 
 Functionalities :-
@@ -35,5 +24,17 @@ Functionalities :-
       Turn off itself
       Shutdowns your PC 
 
+![DO5](https://github.com/suryadeepta/C.I.R.A.L-MARK-V/assets/121755483/12d9920c-15fe-4c6f-b086-f5b95f57da07)
 
-![canvas_ciral-231104_0610](https://github.com/suryadeepta/C.I.R.A.L-MARK-6.9/assets/121755483/7c448588-63b3-451f-83f2-5eb022351d7a)
+HOW TO USE :
+    Sey 'HELLO' to activate the Assistance features
+    Say 'No' to disactivate at starting
+    Keep records of all the conversation 
+    Speeds up the GUI animation when it talk's
+    Greets you everytime you open it
+    You just have to customize the clicking coordinates to make it work
+    Say "Close the Programe" or "Turn off Yourself" anytime to close the Assistance
+
+
+![Screenshot (137)](https://github.com/suryadeepta/C.I.R.A.L-MARK-V/assets/121755483/9e91b0e6-a7d3-481b-adb2-5b00fcd404f1)
+
