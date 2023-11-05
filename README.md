@@ -6,23 +6,23 @@ Meat my Assistant C.I.R.A.L 's Version V
 
 
 Functionalities :-
-     1. Wikipedia search
-     2. Email 
-     3. Translate speech to any language and make an audio copy of that translated speech in Audios folder
-     4. Open any website 
-     5. Say the time
-     6. Weather report 
-     7. Top 5 NEWS headlines 
-     8. Search anything on Google
-     9. Search anything on Youtube
-     10. Calculates simple Math problems (Like - addition, multiplication, division and subtraction)
-     11. Play music from Spotify
-     12. Can ask chatgpt if it is told 
-     13. Can launch any application from your desktop 
-     14. Disconnect Bluetooth Gimmick
-     15. Can close any window
-     16. Turn off itself
-     17. Shutdowns your PC 
+1. Wikipedia search
+2. Email 
+3. Translate speech to any language and make an audio copy of that translated speech in Audios folder
+4. Open any website 
+5. Say the time
+6. Weather report 
+7. Top 5 NEWS headlines 
+8. Search anything on Google
+9. Search anything on Youtube
+10. Calculates simple Math problems (Like - addition, multiplication, division and subtraction)
+11. Play music from Spotify
+12. Can ask chatgpt if it is told 
+13. Can launch any application from your desktop 
+14. Disconnect Bluetooth Gimmick
+15. Can close any window
+16. Turn off itself
+17. Shutdowns your PC 
 
 ![DO5](https://github.com/suryadeepta/C.I.R.A.L-MARK-V/assets/121755483/12d9920c-15fe-4c6f-b086-f5b95f57da07)
 
