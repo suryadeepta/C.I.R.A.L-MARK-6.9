@@ -292,11 +292,11 @@ def send_email(receiver_email, subject, message):
     try:
         server = smtplib.SMTP("smtp.gmail.com", 587)
         server.starttls()
-        server.login("simasarkarfkt@gmail.com", "uraqqfqbdglccahh")
+        server.login("your gamil address", "Password")
 
         email_message = f"Subject: {subject}\n\n{message}"
 
-        server.sendmail("simasarkarfkt@gmail.com", receiver_email, email_message)
+        server.sendmail("your gamil address", receiver_email, email_message)
         server.quit()
         speak("The email is successfully sent boss")
     except Exception as e:
