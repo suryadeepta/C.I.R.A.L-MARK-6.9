@@ -2,7 +2,7 @@
 
 Meat my Assistant C.I.R.A.L 's Version V
 
-![canvas_ciral-231104_0610](https://github.com/suryadeepta/C.I.R.A.L-MARK-6.9/assets/121755483/7c448588-63b3-451f-83f2-5eb022351d7a)
+![canvas_ciral-231105_0533](https://github.com/suryadeepta/C.I.R.A.L-MARK-V/assets/121755483/1f896a3f-0009-4417-9cbd-83f896702daa)
 
 
 Functionalities :-
